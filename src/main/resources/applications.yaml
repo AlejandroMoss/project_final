@@ -4,11 +4,11 @@ spring:
   main:
     allow-bean-definition-overriding: true
   application:
-    name: polizas
+    name: proyect_final
   r2dbc:
-    url: r2dbc:postgresql://localhost:5432/demo
-    username: postgres
-    password: admin
+    url: r2dbc:postgresql://localhost:5432/postgres
+    username: ""
+    password: ""
 
 
 
